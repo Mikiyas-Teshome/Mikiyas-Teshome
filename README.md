@@ -58,4 +58,6 @@
 - [Paytrus Virtual Card Backend System](https://github.com/Mikiyas-Teshome/PaytrusBackend) - A Backend for secure virtual card system for banking.
 
 **Connect with Me:**
-[LinkedIn](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/mikiyas-teshome-1st) | [Email](mailto:ewenetmikiyas@gmail.com) | [Website](https://mikiyasteshome.info)
+- 🌐 [LinkedIn](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/mikiyas-teshome-1st)
+- 📧 [Email](mailto:ewenetmikiyas@gmail.com)
+- 🌐 [Website](https://mikiyasteshome.info)
