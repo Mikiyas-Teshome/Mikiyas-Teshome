@@ -1,8 +1,17 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Mikiyas Teshome 👋</h1>
 
-# 👋 Hi, I'm Mikiyas Teshome
+<p align="center">
+  <em>Full Stack & Mobile Developer | Flutter, React, Node.js, NestJS, Kotlin Enthusiast</em>
+</p>
 
-### 🚀 Full Stack & Mobile Developer | Flutter | Node.js | Java
+---
+
+## 🌟 About Me
+
+- 👨‍💻 Passionate about building seamless digital experiences
+- 🔭 Working on a **Mental Health Support App** and other impactful projects
+- 🌱 Currently mastering **Advanced Flutter Animations** & **Microservices Architecture** with NestJS
+- ⚡ Fun fact: I’m a minimalist by design and love keeping my code clean and organized
 
 ## 🛠️ Tech Stack
 
@@ -30,13 +39,23 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 
 
-**About Me:**  
-I am a passionate full-stack developer with a focus on creating user-friendly, high-quality applications in Flutter and Node.js. I love building tools that make people's lives easier, whether it's for mobile or web.
+## 🌍 What I Love to Do
+- 🧩 Solving complex backend challenges and designing smooth, efficient APIs
+- 🎨 Crafting beautiful, responsive UIs with a keen eye for UX
+- 📱 Building cross-platform mobile applications with **Flutter**
+- 💡 Continuously learning and keeping up-to-date with the latest in tech
+- 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 **Highlighted Projects:**
-- [Exact Betting Prediction App](https://github.com/username/projectname) - A real-time betting prediction platform.
-- [Mental Health Support App](https://github.com/username/projectname) - An app offering mental health resources and chat options.
-- [Paytrus Virtual Card System](https://github.com/username/projectname) - A secure virtual card system for banking.
+- [A NestJs Backend for Betting Prediction App](https://github.com/username/projectname](https://github.com/Mikiyas-Teshome/prophetBackend) - A betting prediction platform.
+- [Mental Bank App](https://github.com/username/projectname](https://github.com/Mikiyas-Teshome/mentalBankApp) - An app offering a mental bank platform for a personal success program.
+- [Paytrus Virtual Card Backend System](https://github.com/Mikiyas-Teshome/PaytrusBackend) - A Backend for secure virtual card system for banking.
 
 **Connect with Me:**
-[LinkedIn](https://linkedin.com/in/yourprofile) | [Email](mailto:your-email@example.com) | [Website](https://yourwebsite.com)
+[LinkedIn](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/mikiyas-teshome-1st) | [Email](mailto:ewenetmikiyas@gmail.com) | [Website](https://mikiyasteshome.info)
