@@ -60,4 +60,4 @@
 **Connect with Me:**
 - 🌐 [LinkedIn](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/mikiyas-teshome-1st)
 - 📧 [Email](mailto:ewenetmikiyas@gmail.com)
-- 🌐 [Website](https://mikiyasteshome.info)
+- 🌐 [Website](https://mikiyasteshome.com)
