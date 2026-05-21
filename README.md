@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Mikiyas Teshome 👋</h1>
 
 <p align="center">
-  <em>Full Stack & Mobile Developer | Flutter, React, Node.js, NestJS, Kotlin Enthusiast</em>
+  <em>Full Stack Developer | Flutter, React, NextJs, Node.js, NestJS, Kotlin Enthusiast</em>
 </p>
 
 ---
